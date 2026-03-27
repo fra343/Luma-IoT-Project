@@ -40,7 +40,7 @@ Gli attuatori eseguono i comandi per regolare l'ambiente domestico.
 ## 🏗️ Evoluzione del Progetto
 Lo sviluppo di LUMA ha portato il sistema da una fase di prototipazione dei componenti su breadboard alla completa integrazione in un modello abitativo in scala.
 
-| Fase di Sviluppo (Prima) | Risultato Finale (Dopo) |
+| Fase di Sviluppo  | Risultato Finale  |
 | :---: | :---: |
 | ![Build Phase](assets/prima.png) | ![Final Model](assets/dopo.png) |
 
